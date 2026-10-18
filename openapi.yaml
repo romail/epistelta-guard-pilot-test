@@ -1,10 +1,11 @@
-openapi: 3.0.3
+﻿openapi: 3.1.0
 info:
-  title: Engineering Guard Pilot API
-  version: 1.0.0
+  title: Protected Test Service API v2
+  version: 2.0.0
 paths:
-  /health:
+  /v2/items:
     get:
+      summary: Updated API schema invalidating previous approvals
       responses:
         '200':
-          description: Healthy
+          description: OK

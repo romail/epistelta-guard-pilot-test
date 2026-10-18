@@ -1,0 +1,4 @@
+LIVE-GATE-001 positive integration test fixture.
+This file contains no executable logic, customer data, or proprietary code.
+Expected positive control: independent human reviewer with write access approves current SHA after EPISTELTA source baseline; EPISTELTA GitHub App issues Check Run SUCCESS; GitHub permits ordinary merge under main branch protection.
+No self-approval, bypass or manually forged success is accepted as positive evidence.

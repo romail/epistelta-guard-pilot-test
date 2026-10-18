@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "policy_id": "engineering-guard-private-pilot",
+  "version": 1,
+  "requirements": [
+    "current_pr_sha",
+    "fresh_authorized_review",
+    "current_policy_and_openapi"
+  ],
+  "note": "Fixture for change detection only. Pilot hashes this file, does not interpret its semantics."
+}

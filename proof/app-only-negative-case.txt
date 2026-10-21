@@ -1,0 +1,4 @@
+LIVE-GATE-001 app-source-only causal denial test fixture.
+This file is intentionally nonfunctional and contains no proprietary data.
+Expected: even with manual commit status SUCCESS, GitHub must reject merge while the required check authored by App ID 5364239 is FAILURE.
+Do not merge until negative-proof evidence has been captured.
